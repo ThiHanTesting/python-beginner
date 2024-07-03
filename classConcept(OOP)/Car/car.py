@@ -20,8 +20,8 @@ class Car :
 # marcedes.drive()
 
 # class level attribute and method
-print(Car.sterringWheel)
-Car.common()
+# print(Car.sterringWheel)
+# Car.common()
 
-Lamborr = Car()
-Lamborr.common()
+# Lamborr = Car()
+# Lamborr.common()
